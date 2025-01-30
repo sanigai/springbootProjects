@@ -10,6 +10,6 @@ public class CloudBuildController {
 
     @GetMapping("/test")
     public String test(){
-        return "This is demo for CICD pipeline using CloudBuild";
+        return "This is demo for CICD pipeline using CloudBuild...!!!";
     }
 }
